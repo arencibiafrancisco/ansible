@@ -18,13 +18,13 @@
 ansible.alvantia.com
 
 [jenkins]
-jenkins.alvantia.com
-jenkins2.alvantia.com
+jenkins.example.com
+jenkins2.example.com
 
 
 [esxi]
-172.16.123.33
-#172.16.123.35
+192.168.0.33
+
 
 
 
